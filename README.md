@@ -22,7 +22,7 @@
 # 🖼️ Visual References
 
 ## 1. Photo
-![hospital1](images/hospital1.png)
+![hospital1](images/hospital.png)
 
 
 ## 2. Photo
