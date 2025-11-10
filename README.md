@@ -22,14 +22,20 @@
 
 # 🖼️ Visual References
 
-## 1. Photo
+## Images from the Game 1
 ![hospital1](images/hospital1.png)
 
 
-## 2. Photo
+## Images from the Game 2
 ![hospital2](images/hospital2.png)
 
 
-## 3. Photo
+## Images from the Game 3
 ![hospital3](images/hospital3.png)
 
+
+---
+
+JOIN TRUE KINETIC STUDIOS TODAY
+
+![Apply] (https://forms.gle/M3YYZtoHtuJ8dHsx6)
