@@ -22,10 +22,13 @@
 # 🖼️ Visual References
 
 ## 1. Photo
-![hospital1](depression/images/hospital1.png)
+![hospital1](images/hospital1.png)
+
 
 ## 2. Photo
-![hospital2](depression/images/hospital2.png)
+![hospital2](images/hospital2.png)
+
 
 ## 3. Photo
-![hospital3](depression/images/hospital3.png)
+![hospital3](images/hospital3.png)
+
